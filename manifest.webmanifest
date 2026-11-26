@@ -1,0 +1,9 @@
+{
+  "name": "CT Annotator",
+  "short_name": "CT注釈",
+  "display": "standalone",
+  "start_url": ".",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": []
+}
